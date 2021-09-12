@@ -1,8 +1,8 @@
 package reflection;
 
 import java.util.Map;
-import models.Person;
-import models.Product;
+import reflection.models.Person;
+import reflection.models.Product;
 
 public class Reflection {
 

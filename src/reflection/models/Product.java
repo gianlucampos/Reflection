@@ -1,4 +1,4 @@
-package models;
+package reflection.models;
 
 
 public class Product {
